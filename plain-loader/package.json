@@ -1,0 +1,10 @@
+{
+  "name": "plain-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "plain-loader.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
